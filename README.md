@@ -1,8 +1,11 @@
-# Svelte + Vite
+# Agenda Week View Svelte
 
-This template should help get you started developing with Svelte in Vite.
+This uses demo data. Create a new component and replace your Component ID to get started.
 
-The entry point for the app can be found in /src/App.svelte.
+## Documentation
 
+Learn more about [Nylas Components](https://developer.nylas.com/docs/user-experience/components/).
 
-See svelte.dev to get started with Svelte!
+## Components
+
+Check out the [Components repo](https://github.com/nylas/components).
